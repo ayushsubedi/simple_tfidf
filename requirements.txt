@@ -1,0 +1,7 @@
+pandas
+numpy
+python-dotenv
+great-expectations
+jupyterlab
+boto3
+requests
