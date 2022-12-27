@@ -5,3 +5,4 @@ great-expectations
 jupyterlab
 boto3
 requests
+pyspark
